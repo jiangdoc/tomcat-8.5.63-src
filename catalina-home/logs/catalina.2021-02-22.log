@@ -1,0 +1,225 @@
+22-Feb-2021 11:06:35.485 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:06:35.490 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:06:35.490 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:06:35.491 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:06:36.154 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+22-Feb-2021 11:06:36.158 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+22-Feb-2021 11:06:36.159 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·:      @VERSION_NUMBER@
+22-Feb-2021 11:06:36.159 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Mac OS X
+22-Feb-2021 11:06:36.159 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.15.7
+22-Feb-2021 11:06:36.159 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              x86_64
+22-Feb-2021 11:06:36.159 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     /Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/jre
+22-Feb-2021 11:06:36.160 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_271-b09
+22-Feb-2021 11:06:36.160 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+22-Feb-2021 11:06:36.160 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 11:06:36.160 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.home=catalina-home
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.base=catalina-home
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.endorsed.dirs=catalina-home/endorsed
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.io.tmpdir=catalina-home/temp
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+22-Feb-2021 11:06:36.162 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51769:/Applications/IntelliJ IDEA.app/Contents/bin
+22-Feb-2021 11:06:36.163 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dfile.encoding=UTF-8
+22-Feb-2021 11:06:36.163 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[/Users/jiangwenjie/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+22-Feb-2021 11:06:36.374 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+22-Feb-2021 11:06:36.406 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Feb-2021 11:06:36.423 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 911 ms
+22-Feb-2021 11:06:36.477 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+22-Feb-2021 11:06:36.477 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+22-Feb-2021 11:06:36.488 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs]
+22-Feb-2021 11:06:36.843 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs]çé¨ç½²å·²å¨[352]æ¯«ç§åå®æ
+22-Feb-2021 11:06:36.844 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager]
+22-Feb-2021 11:06:36.929 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager]çé¨ç½²å·²å¨[85]æ¯«ç§åå®æ
+22-Feb-2021 11:06:36.929 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples]
+22-Feb-2021 11:06:37.006 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+22-Feb-2021 11:06:37.007 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+22-Feb-2021 11:06:37.016 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples]çé¨ç½²å·²å¨[87]æ¯«ç§åå®æ
+22-Feb-2021 11:06:37.016 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT]
+22-Feb-2021 11:06:37.078 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT]çé¨ç½²å·²å¨[62]æ¯«ç§åå®æ
+22-Feb-2021 11:06:37.078 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager]
+22-Feb-2021 11:06:37.137 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager]çé¨ç½²å·²å¨[59]æ¯«ç§åå®æ
+22-Feb-2021 11:06:37.141 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+22-Feb-2021 11:06:37.152 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 728 ms
+22-Feb-2021 11:16:30.964 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause æåProtocolHandler["http-nio-8080"]
+22-Feb-2021 11:16:30.969 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal æ­£å¨åæ­¢æå¡[Catalina]
+22-Feb-2021 11:16:30.988 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop æ­£å¨åæ­¢ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 11:16:30.992 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["http-nio-8080"]
+22-Feb-2021 11:16:34.584 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:16:34.588 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:16:34.588 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:16:34.588 警告 [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·:      @VERSION_NUMBER@
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Mac OS X
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.15.7
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              x86_64
+22-Feb-2021 11:16:35.114 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     /Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/jre
+22-Feb-2021 11:16:35.115 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_271-b09
+22-Feb-2021 11:16:35.115 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+22-Feb-2021 11:16:35.115 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 11:16:35.115 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 11:16:35.116 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.home=catalina-home
+22-Feb-2021 11:16:35.116 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.base=catalina-home
+22-Feb-2021 11:16:35.116 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.endorsed.dirs=catalina-home/endorsed
+22-Feb-2021 11:16:35.116 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.io.tmpdir=catalina-home/temp
+22-Feb-2021 11:16:35.116 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Feb-2021 11:16:35.116 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+22-Feb-2021 11:16:35.117 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=51885:/Applications/IntelliJ IDEA.app/Contents/bin
+22-Feb-2021 11:16:35.117 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dfile.encoding=UTF-8
+22-Feb-2021 11:16:35.117 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[/Users/jiangwenjie/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+22-Feb-2021 11:16:35.243 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+22-Feb-2021 11:16:35.269 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Feb-2021 11:16:35.284 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 677 ms
+22-Feb-2021 11:16:35.319 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+22-Feb-2021 11:16:35.319 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+22-Feb-2021 11:16:35.330 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs]
+22-Feb-2021 11:16:35.705 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+22-Feb-2021 11:16:35.753 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs]çé¨ç½²å·²å¨[421]æ¯«ç§åå®æ
+22-Feb-2021 11:16:35.754 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager]
+22-Feb-2021 11:16:35.844 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+22-Feb-2021 11:16:35.853 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager]çé¨ç½²å·²å¨[99]æ¯«ç§åå®æ
+22-Feb-2021 11:16:35.853 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples]
+22-Feb-2021 11:16:36.024 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+22-Feb-2021 11:16:36.035 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+22-Feb-2021 11:16:36.036 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+22-Feb-2021 11:16:36.042 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples]çé¨ç½²å·²å¨[189]æ¯«ç§åå®æ
+22-Feb-2021 11:16:36.043 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT]
+22-Feb-2021 11:16:36.152 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+22-Feb-2021 11:16:36.153 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT]çé¨ç½²å·²å¨[110]æ¯«ç§åå®æ
+22-Feb-2021 11:16:36.153 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager]
+22-Feb-2021 11:16:36.249 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars è³å°æä¸ä¸ªJARè¢«æ«æç¨äºTLDä½å°æªåå«TLDã ä¸ºæ­¤è®°å½å¨å¯ç¨è°è¯æ¥å¿è®°å½ï¼ä»¥è·åå·²æ«æä½æªå¨å¶ä¸­æ¾å°TLDçå®æ´JARåè¡¨ã å¨æ«ææé´è·³è¿ä¸éè¦çJARå¯ä»¥ç¼©ç­å¯å¨æ¶é´åJSPç¼è¯æ¶é´ã
+22-Feb-2021 11:16:36.250 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager]çé¨ç½²å·²å¨[97]æ¯«ç§åå®æ
+22-Feb-2021 11:16:36.252 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+22-Feb-2021 11:16:36.261 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 976 ms
+22-Feb-2021 11:21:53.135 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause æåProtocolHandler["http-nio-8080"]
+22-Feb-2021 11:21:53.138 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal æ­£å¨åæ­¢æå¡[Catalina]
+22-Feb-2021 11:21:53.152 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop æ­£å¨åæ­¢ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 11:21:53.154 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["http-nio-8080"]
+22-Feb-2021 11:21:57.760 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:21:57.763 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:21:57.763 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:21:57.763 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 11:21:58.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/@VERSION@
+22-Feb-2021 11:21:58.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: @VERSION_NUMBER@
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.7
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/jre
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_271-b09
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 11:21:58.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 11:21:58.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+22-Feb-2021 11:21:58.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+22-Feb-2021 11:21:58.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+22-Feb-2021 11:21:58.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+22-Feb-2021 11:21:58.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Feb-2021 11:21:58.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+22-Feb-2021 11:21:58.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+22-Feb-2021 11:21:58.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52003:/Applications/IntelliJ IDEA.app/Contents/bin
+22-Feb-2021 11:21:58.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Feb-2021 11:21:58.215 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jiangwenjie/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22-Feb-2021 11:21:58.331 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 11:21:58.356 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Feb-2021 11:21:58.377 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 593 ms
+22-Feb-2021 11:21:58.405 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Feb-2021 11:21:58.405 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+22-Feb-2021 11:21:58.412 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs]
+22-Feb-2021 11:21:58.718 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 11:21:58.747 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs] has finished in [335] ms
+22-Feb-2021 11:21:58.748 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager]
+22-Feb-2021 11:21:58.839 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 11:21:58.846 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager] has finished in [98] ms
+22-Feb-2021 11:21:58.846 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples]
+22-Feb-2021 11:21:59.000 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 11:21:59.011 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+22-Feb-2021 11:21:59.012 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+22-Feb-2021 11:21:59.018 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples] has finished in [172] ms
+22-Feb-2021 11:21:59.018 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT]
+22-Feb-2021 11:21:59.109 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 11:21:59.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT] has finished in [92] ms
+22-Feb-2021 11:21:59.110 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager]
+22-Feb-2021 11:21:59.186 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 11:21:59.188 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager] has finished in [78] ms
+22-Feb-2021 11:21:59.190 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 11:21:59.198 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 821 ms
+22-Feb-2021 11:32:23.580 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 11:32:23.591 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Feb-2021 11:32:23.626 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 11:32:23.634 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 15:01:41.503 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 15:01:41.506 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 15:01:41.506 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 15:01:41.506 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/lib], exists: [false], isDirectory: [false], canRead: [false]
+22-Feb-2021 15:01:42.203 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/@VERSION@
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          @VERSION_BUILT@
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: @VERSION_NUMBER@
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.15.7
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/jre
+22-Feb-2021 15:01:42.204 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_271-b09
+22-Feb-2021 15:01:42.205 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Feb-2021 15:01:42.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 15:01:42.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home
+22-Feb-2021 15:01:42.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+22-Feb-2021 15:01:42.209 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+22-Feb-2021 15:01:42.212 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=54962:/Applications/IntelliJ IDEA.app/Contents/bin
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Feb-2021 15:01:42.213 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/jiangwenjie/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+22-Feb-2021 15:01:42.423 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 15:01:42.464 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+22-Feb-2021 15:01:42.482 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 947 ms
+22-Feb-2021 15:01:42.527 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Feb-2021 15:01:42.527 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+22-Feb-2021 15:01:42.537 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs]
+22-Feb-2021 15:01:42.917 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 15:01:42.963 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/docs] has finished in [425] ms
+22-Feb-2021 15:01:42.963 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager]
+22-Feb-2021 15:01:43.105 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 15:01:43.114 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/manager] has finished in [151] ms
+22-Feb-2021 15:01:43.115 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples]
+22-Feb-2021 15:01:43.351 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 15:01:43.362 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+22-Feb-2021 15:01:43.363 SEVERE [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+22-Feb-2021 15:01:43.372 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/examples] has finished in [257] ms
+22-Feb-2021 15:01:43.373 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT]
+22-Feb-2021 15:01:43.485 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 15:01:43.486 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/ROOT] has finished in [113] ms
+22-Feb-2021 15:01:43.486 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager]
+22-Feb-2021 15:01:43.578 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Feb-2021 15:01:43.579 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/jiangwenjie/IdeaProjects/tomcat-8.5.63-src/catalina-home/webapps/host-manager] has finished in [93] ms
+22-Feb-2021 15:01:43.582 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 15:01:43.591 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1106 ms
+22-Feb-2021 15:02:37.896 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 15:02:39.079 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Feb-2021 15:02:39.096 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 15:02:40.281 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Feb-2021 15:02:40.283 WARNING [Thread-4] org.apache.tomcat.util.net.NioEndpoint.unbind Failed to close server socket for [http-nio-8080]
+	java.io.IOException: Unknown error: 316
+		at sun.nio.ch.NativeThread.signal(Native Method)
+		at sun.nio.ch.ServerSocketChannelImpl.implCloseSelectableChannel(ServerSocketChannelImpl.java:294)
+		at java.nio.channels.spi.AbstractSelectableChannel.implCloseChannel(AbstractSelectableChannel.java:234)
+		at java.nio.channels.spi.AbstractInterruptibleChannel.close(AbstractInterruptibleChannel.java:115)
+		at sun.nio.ch.ServerSocketAdaptor.close(ServerSocketAdaptor.java:137)
+		at org.apache.tomcat.util.net.NioEndpoint.doCloseServerSocket(NioEndpoint.java:356)
+		at org.apache.tomcat.util.net.NioEndpoint.unbind(NioEndpoint.java:336)
+		at org.apache.tomcat.util.net.AbstractEndpoint.destroy(AbstractEndpoint.java:1276)
+		at org.apache.coyote.AbstractProtocol.destroy(AbstractProtocol.java:665)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.destroy(AbstractHttp11Protocol.java:107)
+		at org.apache.catalina.connector.Connector.destroyInternal(Connector.java:1130)
+		at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:321)
+		at org.apache.catalina.core.StandardService.destroyInternal(StandardService.java:574)
+		at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:321)
+		at org.apache.catalina.core.StandardServer.destroyInternal(StandardServer.java:854)
+		at org.apache.catalina.util.LifecycleBase.destroy(LifecycleBase.java:321)
+		at org.apache.catalina.startup.Catalina.stop(Catalina.java:762)
+		at org.apache.catalina.startup.Catalina$CatalinaShutdownHook.run(Catalina.java:862)
