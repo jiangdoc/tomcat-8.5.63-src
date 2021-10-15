@@ -608,6 +608,7 @@ public class Catalina {
             try {
                 inputSource.setByteStream(inputStream);
                 digester.push(this);
+                // 解析server.xml
                 digester.parse(inputSource);
             } catch (SAXParseException spe) {
                 log.warn("Catalina.start using " + getConfigFile() + ": " +
@@ -636,6 +637,7 @@ public class Catalina {
 
         // Start the new server
         try {
+            // 调用Server组件的init方法，初始化Tomcat各组件
             getServer().init();
         } catch (LifecycleException e) {
             if (Boolean.getBoolean("org.apache.catalina.startup.EXIT_ON_INIT_FAILURE")) {
@@ -668,9 +670,11 @@ public class Catalina {
 
 
     /**
-     * Start a new server instance.
+     * 启动一个新的服务器实例
      */
     public void start() {
+
+        log.info("Catalina-start()......");
 
         if (getServer() == null) {
             load();

@@ -74,6 +74,8 @@ public final class StandardServer extends LifecycleMBeanBase implements Server {
 
         super();
 
+        log.info("StandardServer......");
+
         globalNamingResources = new NamingResourcesImpl();
         globalNamingResources.setContainer(this);
 

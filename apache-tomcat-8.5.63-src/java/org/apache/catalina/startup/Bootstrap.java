@@ -243,11 +243,11 @@ public final class Bootstrap {
 
 
     /**
-     * Initialize daemon.
+     * 初始化守护程序:初始化catalina，并实例化
      * @throws Exception Fatal initialization error
      */
     public void init() throws Exception {
-
+        // 1.初始化类加载器
         initClassLoaders();
 
         Thread.currentThread().setContextClassLoader(catalinaLoader);
@@ -257,10 +257,11 @@ public final class Bootstrap {
         // Load our startup class and call its process() method
         if (log.isDebugEnabled())
             log.debug("Loading startup class");
+        // 2.实例化catalina
         Class<?> startupClass = catalinaLoader.loadClass("org.apache.catalina.startup.Catalina");
         Object startupInstance = startupClass.getConstructor().newInstance();
 
-        // Set the shared extensions class loader
+        // 3.反射调用Catalina的setParentClassLoader方法
         if (log.isDebugEnabled())
             log.debug("Setting startup class properties");
         String methodName = "setParentClassLoader";
@@ -277,11 +278,10 @@ public final class Bootstrap {
 
 
     /**
-     * Load daemon.
+     * 通过反射执行catalina 的 load 方法
      */
     private void load(String[] arguments) throws Exception {
 
-        // Call the load() method
         String methodName = "load";
         Object param[];
         Class<?> paramTypes[];
@@ -322,22 +322,24 @@ public final class Bootstrap {
      * @param arguments Initialization arguments
      * @throws Exception Fatal initialization error
      */
-    public void init(String[] arguments) throws Exception {
-
-        init();
+    public void init(String[] arguments) throws Exception { init();
         load(arguments);
     }
 
 
     /**
-     * Start the Catalina daemon.
+     * 启动Catalina守护程序。
      * @throws Exception Fatal start error
      */
     public void start() throws Exception {
+
+        log.info("Bootstrap-start()......");
+
         if (catalinaDaemon == null) {
             init();
         }
 
+        // 通过反射执行 Catalina.start()
         Method method = catalinaDaemon.getClass().getMethod("start", (Class [])null);
         method.invoke(catalinaDaemon, (Object [])null);
     }
@@ -436,7 +438,7 @@ public final class Bootstrap {
 
         synchronized (daemonLock) {
             if (daemon == null) {
-                // Don't set daemon until init() has completed
+                // 1.初始化catalina
                 Bootstrap bootstrap = new Bootstrap();
                 try {
                     bootstrap.init();
@@ -469,6 +471,7 @@ public final class Bootstrap {
                 daemon.stop();
             } else if (command.equals("start")) {
                 daemon.setAwait(true);
+                // 2. 执行catalina的load方法， 会解析server.xml
                 daemon.load(args);
                 daemon.start();
                 if (null == daemon.getServer()) {
